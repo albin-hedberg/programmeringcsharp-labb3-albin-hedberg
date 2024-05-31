@@ -5,16 +5,16 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:views="clr-namespace:Labb3ProgTemplate.Views"
-    Title="MainWindow"
+    Title="Labb 3 - WPF"
     Width="800"
     Height="550"
     MinWidth="800"
     MinHeight="550"
     mc:Ignorable="d">
     <Grid>
-        <Grid.Background>
+        <!--<Grid.Background>
             <ImageBrush ImageSource="https://i.imgur.com/3uUwx13.gif" />
-        </Grid.Background>
+        </Grid.Background>-->
         <TabControl Name="Tabs">
             <TabItem Name="LoginTab" Header="Login">
                 <views:LoginView />

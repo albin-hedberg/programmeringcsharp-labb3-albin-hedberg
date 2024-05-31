@@ -9,9 +9,9 @@
     FontSize="20"
     mc:Ignorable="d">
     <Grid>
-        <Grid.Background>
+        <!--<Grid.Background>
             <ImageBrush ImageSource="https://i.imgur.com/3uUwx13.gif" />
-        </Grid.Background>
+        </Grid.Background>-->
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="50" />
             <ColumnDefinition Width="*" />
