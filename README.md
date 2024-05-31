@@ -1,3 +1,5 @@
+![Exempel-bild1](https://github.com/albin-hedberg/programmeringcsharp-labb3-albin-hedberg/blob/main/Exempel-bild1.png)
+
 # Labb3
 
 Du har fått i uppgift att färdigställa en WPF-applikation som representerar en butik.
